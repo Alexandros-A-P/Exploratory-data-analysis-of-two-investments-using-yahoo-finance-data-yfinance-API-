@@ -1,4 +1,6 @@
 # Exploratory-data-analysis-of-two-investments-using-yahoo-finance-data-yfinance-API-
+(Please note that this project is not complete but offers information on Python programming, use of APIs, Econometric data practices and constructing an equally weighted portfolio with an adjustable number of investments))
+
 Compare individual assets or combine multiple assets into equally weighted portfolios. Then assess log-returns by collecting data using the yfinance API. Finally, assess distributions of log-returns, compare CDFs, Skewness and Kurtosis to get a more holistic view on market volatility between the two investments. Steps can be explained if you wish to reach out to me. 
 
 Once ran, the API tracks the last 5-years of closing prices which are transformed to log-returns. Data scraping can be changed to any number of months, days or years but 5 years is recommended. It is crucial that both potential investments of interest have the same time duration.
