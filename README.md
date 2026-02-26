@@ -1,2 +1,2 @@
 # Exploratory-data-analysis-of-two-investments-using-yahoo-finance-data-yfinance-API-
-Compare individual assets or combine multiple into equally weighted portfolios. Then assess log-returns by collecting data using the yfinance API. Finally, assess distributions of log-returns, compare CDFs, Skewness and Kurtosis to get more holistic view on market volatility. 
+Compare individual assets or combine multiple assets into equally weighted portfolios. Then assess log-returns by collecting data using the yfinance API. Finally, assess distributions of log-returns, compare CDFs, Skewness and Kurtosis to get more holistic view on market volatility. 
